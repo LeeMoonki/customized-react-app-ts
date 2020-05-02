@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "esModuleInterop": true,
+    "jsx": "react",
+    "outDir": "./public",
+    "sourceMap": true,
+    "strict": true,
+    "target": "es5"  
+  }
+}
